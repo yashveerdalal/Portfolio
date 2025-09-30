@@ -3,11 +3,7 @@
 Welcome to my personal portfolio website! As a pre-final year Computer Science Engineering student, this is a showcase of my skills and the projects I've been working on.
 <br/>
 
-<br/> <br/>
-
-## Website Preview
-
-
+<br/>
 
 
 
