@@ -7,9 +7,9 @@ Welcome to my personal portfolio website! As a pre-final year Computer Science E
 
 ## Website Preview
 
-_(Note: Remember to replace the image below with a screenshot of your own portfolio!)_
 
-![image](path/to/your/Preview.png)
+
+
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ _(Note: Remember to replace the image below with a screenshot of your own portfo
 
 ## Features
 
-- **Hosting on Netlify:** The website is hosted on the [`Netlify`](https://www.netlify.com) platform, ensuring a reliable and efficient hosting solution.
+- **Hosting on Netlify:** The website is hosted on the [vercel](https://portfolio-yashveerdalal.vercel.app) platform, ensuring a reliable and efficient hosting solution.
 
 - **Single Page Portfolio:** The portfolio is designed as a single page, offering convenient navigation to various sections, including:
 
