@@ -9,7 +9,7 @@ Welcome to my personal portfolio website! As a pre-final year Computer Science E
 
 _(Note: Remember to replace the image below with a screenshot of your own portfolio!)_
 
-![image](path/to/your/screenshot.png)
+![image](path/to/your/Preview.png)
 
 ## Table of Contents
 
